@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2812a1ffc8419cf4584b61187b75873a
+guid: 794a16b78f53445408203c321cec4bc4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -97,89 +97,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IDLE_MAGE_SPRITESHEET 1_0
+      name: capsule_player_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 16
         y: 0
-        width: 64
-        height: 64
+        width: 30
+        height: 59
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a3beb534bb218cd47a905cd40ca55664
-      internalID: 1707589290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IDLE_MAGE_SPRITESHEET 1_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e13d3e12696c36a43a12fc2d025853c5
-      internalID: -2059854473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IDLE_MAGE_SPRITESHEET 1_2
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3fd0c5fa27f3e6440927d9abe963475f
-      internalID: 450432163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IDLE_MAGE_SPRITESHEET 1_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4658f4049f998724fb40d42adcfa5901
-      internalID: 17143923
+      spriteID: 98df7c24f763b6780800000000000000
+      internalID: -8688791135872090743
       vertices: []
       indices: 
       edges: []
@@ -196,14 +130,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      IDLE_MAGE_SPRITESHEET 1_0: 1707589290
-      IDLE_MAGE_SPRITESHEET 1_1: -2059854473
-      IDLE_MAGE_SPRITESHEET 1_2: 450432163
-      IDLE_MAGE_SPRITESHEET 1_3: 17143923
+      capsule_player_0: -8688791135872090743
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
